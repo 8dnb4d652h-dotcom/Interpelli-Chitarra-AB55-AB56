@@ -1,0 +1,156 @@
+{
+  "regions": {
+    "ABRUZZO": [
+      "Chieti",
+      "L'Aquila",
+      "Pescara",
+      "Teramo"
+    ],
+    "BASILICATA": [
+      "Matera",
+      "Potenza"
+    ],
+    "CALABRIA": [
+      "Catanzaro",
+      "Cosenza",
+      "Crotone",
+      "Reggio Calabria",
+      "Vibo Valentia"
+    ],
+    "CAMPANIA": [
+      "Avellino",
+      "Benevento",
+      "Caserta",
+      "Napoli",
+      "Salerno"
+    ],
+    "EMILIA-ROMAGNA": [
+      "Bologna",
+      "Ferrara",
+      "Forlì-Cesena",
+      "Modena",
+      "Parma",
+      "Piacenza",
+      "Ravenna",
+      "Reggio Emilia",
+      "Rimini"
+    ],
+    "FRIULI-VENEZIA GIULIA": [
+      "Gorizia",
+      "Pordenone",
+      "Trieste",
+      "Udine"
+    ],
+    "LAZIO": [
+      "Frosinone",
+      "Latina",
+      "Rieti",
+      "Roma",
+      "Viterbo"
+    ],
+    "LIGURIA": [
+      "Genova",
+      "Imperia",
+      "La Spezia",
+      "Savona"
+    ],
+    "LOMBARDIA": [
+      "Bergamo",
+      "Brescia",
+      "Como",
+      "Cremona",
+      "Lecco",
+      "Lodi",
+      "Mantova",
+      "Milano",
+      "Monza e Brianza",
+      "Pavia",
+      "Sondrio",
+      "Varese"
+    ],
+    "MARCHE": [
+      "Ancona",
+      "Ascoli Piceno",
+      "Fermo",
+      "Macerata",
+      "Pesaro e Urbino"
+    ],
+    "MOLISE": [
+      "Campobasso",
+      "Isernia"
+    ],
+    "PIEMONTE": [
+      "Alessandria",
+      "Asti",
+      "Biella",
+      "Cuneo",
+      "Novara",
+      "Torino",
+      "Verbano-Cusio-Ossola",
+      "Vercelli"
+    ],
+    "PUGLIA": [
+      "Bari",
+      "Barletta-Andria-Trani",
+      "Brindisi",
+      "Foggia",
+      "Lecce",
+      "Taranto"
+    ],
+    "SARDEGNA": [
+      "Cagliari",
+      "Nuoro",
+      "Oristano",
+      "Sassari",
+      "Sud Sardegna"
+    ],
+    "SICILIA": [
+      "Agrigento",
+      "Caltanissetta",
+      "Catania",
+      "Enna",
+      "Messina",
+      "Palermo",
+      "Ragusa",
+      "Siracusa",
+      "Trapani"
+    ],
+    "TOSCANA": [
+      "Arezzo",
+      "Firenze",
+      "Grosseto",
+      "Livorno",
+      "Lucca",
+      "Massa-Carrara",
+      "Pisa",
+      "Pistoia",
+      "Prato",
+      "Siena"
+    ],
+    "TRENTINO-ALTO ADIGE": [
+      "Bolzano",
+      "Trento"
+    ],
+    "UMBRIA": [
+      "Perugia",
+      "Terni"
+    ],
+    "VALLE D'AOSTA": [
+      "Aosta"
+    ],
+    "VENETO": [
+      "Belluno",
+      "Padova",
+      "Rovigo",
+      "Treviso",
+      "Venezia",
+      "Verona",
+      "Vicenza"
+    ]
+  },
+  "source_hubs": {
+    "MIM": "https://www.mim.gov.it/",
+    "USR Liguria": "https://servizi.istruzioneliguria.gov.it/",
+    "Scuola Interpelli": "https://scuolainterpelli.it/"
+  }
+}
