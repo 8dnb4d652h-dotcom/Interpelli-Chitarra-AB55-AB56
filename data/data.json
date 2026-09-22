@@ -1,0 +1,44 @@
+{
+  "updated_at": null,
+  "items": [
+    {
+      "id": "seed-filelfo-ab55",
+      "cdc": "AB55",
+      "region": "MARCHE",
+      "province": "Macerata",
+      "school": "IIS F. Filelfo - Tolentino",
+      "published": "2026-09-18",
+      "expiry": "",
+      "title": "Interpello AB55 chitarra",
+      "url": "https://www.iisfilelfo.edu.it/",
+      "source": "Scuola / sito ufficiale",
+      "status": "attivo"
+    },
+    {
+      "id": "seed-prato-ab56",
+      "cdc": "AB56",
+      "region": "TOSCANA",
+      "province": "Prato",
+      "school": "IC Lippi",
+      "published": "2026-09-16",
+      "expiry": "2027-03-17",
+      "title": "Interpello AB56 chitarra",
+      "url": "https://www.istruzioneprato.gov.it/",
+      "source": "UST Prato",
+      "status": "attivo"
+    },
+    {
+      "id": "seed-cerisano-ab56",
+      "cdc": "AB56",
+      "region": "CALABRIA",
+      "province": "Cosenza",
+      "school": "IC Cerisano",
+      "published": "2026-08-25",
+      "expiry": "",
+      "title": "Interpello AB56 chitarra",
+      "url": "https://www.iccerisano.edu.it/",
+      "source": "Scuola / sito ufficiale",
+      "status": "storico"
+    }
+  ]
+}
